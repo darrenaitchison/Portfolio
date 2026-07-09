@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #070b12;
+    color: white;
+}
+
+.hero {
+    padding: 80px 20px;
+    text-align: center;
+    background: linear-gradient(135deg, #101827, #1d3557);
+}
+
+.hero h1 {
+    font-size: 52px;
+    margin: 0;
+}
+
+.hero p {
+    color: #d6e4ff;
+    font-size: 20px;
+}
+
+nav {
+    background: #0d1421;
+    padding: 16px;
+    text-align: center;
+    border-bottom: 1px solid #263244;
+}
+
+nav a {
+    color: #9cc9ff;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.welcome {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 0 24px;
+    line-height: 1.7;
+    font-size: 18px;
+}
+
+.welcome h2 {
+    font-size: 34px;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    color: #9aa4b2;
+}
