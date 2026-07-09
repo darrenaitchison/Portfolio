@@ -52,3 +52,12 @@ footer {
     padding: 30px;
     color: #9aa4b2;
 }
+.banner {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    display: block;
+    margin: 0 auto 30px auto;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+}
